@@ -1,8 +1,8 @@
-h1. Site Specific Plugin Boilerplate
+# Site Specific Plugin Boilerplate
 
 Simple WordPress plugin to remove functionality from functions.php and making sites theme independent.
 
-h2. Contents
+## Contents
 
 1. Housekeeping
   * Add post thumbnail support
@@ -14,7 +14,7 @@ h2. Contents
   * Project post type
   * Service type taxonomy
 
-h3. License (MIT)
+### License (MIT)
 
 Copyright (c) 2014 Ben Palmer
 
